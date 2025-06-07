@@ -39,10 +39,14 @@ let projects = [
     image: 'textures/wildeye.png',
     url: 'https://sparshgaur369.github.io/Forge-main/',
   },
-  // {
-  //   image: 'textures/project-pelotero.jpg',
-  //   url: 'https://www.peloterosenlaweb.com/',
-  // },
+  {
+    image: 'textures/quantum.png',
+    url: 'https://quantumdts.vercel.app/',
+  },
+  {
+    image: 'textures/indoor.png',
+    url: 'https://indoorsports.vercel.app/',
+  },
 ];
 let aboutCameraPos = {
   x: 0.12,
